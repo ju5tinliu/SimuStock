@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Portfolio name="Justin">
+    <Stock date="2024-02-01" quantity="10.0" symbol="GOOG"/>
+</Portfolio>
